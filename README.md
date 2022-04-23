@@ -2,7 +2,7 @@
 
 ## Detecting Sentimentality Around United States Politicians
 
-This repo contains code and other resources for a model that forecasts the number of visits for wikipedia articles as well as the goodle trend expected over the next one year.
+This repo contains the colab notebook related to the project.
 
 
 ### About the project 
@@ -13,8 +13,7 @@ The data is sourced from GDETL which contained a huge and complex dataset. It us
 
 ### Contents
 * [Overview](#overview)
-* [Technologies](#technologies)
-* [Setup](#setup)
+
 * [Notebook](#notebook)
 
 
@@ -27,4 +26,3 @@ The necessity of such  a project is to help detect the current perception of the
 All code related to the project is contained in this [notebook](https://colab.research.google.com/drive/1SzIajbAx83EAhk4UZfGTn2P1aSHKXkM9?usp=sharing)
 
 #### Performance Models Used
-The performance ofthe models applied is evluated based on Mean Absolute Percenta Error (MAPE) 
